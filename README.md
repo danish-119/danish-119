@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Muhammad Danish.
 - 👀 I’m a passionate student with a love for coding and technology.
 - 🌱 I’m currently learning Web Development and studying at COMSATS University Islamabad, Pakistan.
 - 💞️ Always eager to learn and grow, I believe in the power of community and collaboration. Let's learn together!
